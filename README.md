@@ -1,4 +1,4 @@
-# Upwork Profile — Short, Practical README (for Software Engineers)
+# Upwork Profile — Short, Practical (for Software Engineers)
 
 No fluff. Do this and you’ll get more profile views and invites.
 
